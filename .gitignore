@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 /dist-react
 /dist-electron
+/dist
+*.tsbuildinfo
